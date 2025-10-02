@@ -1,0 +1,5 @@
+全局变量已写入 variables_output.txt 文件
+命令行参数已写入 args_output.txt 文件
+obs_space:  [Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,)]
+share_obs_space:  [Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,)]
+act_space:  [Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11)), Tuple(Box(1,), Box(1,), Box(2,), Discrete(11))]

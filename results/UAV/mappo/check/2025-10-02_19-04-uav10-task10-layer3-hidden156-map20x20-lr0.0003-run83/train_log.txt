@@ -1,0 +1,2 @@
+全局变量已写入 variables_output.txt 文件
+命令行参数已写入 args_output.txt 文件

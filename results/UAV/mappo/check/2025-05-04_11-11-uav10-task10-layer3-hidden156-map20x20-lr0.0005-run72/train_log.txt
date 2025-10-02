@@ -1,0 +1,464 @@
+全局变量已写入 variables_output.txt 文件
+命令行参数已写入 args_output.txt 文件
+obs_space:  [Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,), Box(35,)]
+share_obs_space:  [Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,), Box(350,)]
+act_space:  [Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11)), Tuple(Box(1,), Box(1,), Discrete(5), Discrete(11))]
+
+ Scenario UAV Algo mappo Exp check updates 0/312 episodes, total num timesteps 12800/4000000, FPS 657.
+
+average episode rewards is -3.2328128814697266
+average episode objects is 4.6151227951049805
+
+ Scenario UAV Algo mappo Exp check updates 5/312 episodes, total num timesteps 76800/4000000, FPS 1141.
+
+average episode rewards is -2.4747414588928223
+average episode objects is 16.1342830657959
+
+ Scenario UAV Algo mappo Exp check updates 10/312 episodes, total num timesteps 140800/4000000, FPS 1227.
+
+average episode rewards is -1.319514513015747
+average episode objects is 34.70458221435547
+
+ Scenario UAV Algo mappo Exp check updates 15/312 episodes, total num timesteps 204800/4000000, FPS 1262.
+
+average episode rewards is -0.703243613243103
+average episode objects is 44.6163444519043
+
+ Scenario UAV Algo mappo Exp check updates 20/312 episodes, total num timesteps 268800/4000000, FPS 1284.
+
+average episode rewards is -0.25201326608657837
+average episode objects is 52.50532913208008
+
+ Scenario UAV Algo mappo Exp check updates 25/312 episodes, total num timesteps 332800/4000000, FPS 1297.
+
+average episode rewards is -0.041989341378211975
+average episode objects is 55.850006103515625
+
+ Scenario UAV Algo mappo Exp check updates 30/312 episodes, total num timesteps 396800/4000000, FPS 1300.
+
+average episode rewards is 0.2867189347743988
+average episode objects is 63.975894927978516
+
+ Scenario UAV Algo mappo Exp check updates 35/312 episodes, total num timesteps 460800/4000000, FPS 1307.
+
+average episode rewards is 0.46491530537605286
+average episode objects is 67.12448120117188
+
+ Scenario UAV Algo mappo Exp check updates 40/312 episodes, total num timesteps 524800/4000000, FPS 1315.
+
+average episode rewards is 0.5821676254272461
+average episode objects is 70.4858169555664
+
+ Scenario UAV Algo mappo Exp check updates 45/312 episodes, total num timesteps 588800/4000000, FPS 1317.
+
+average episode rewards is 0.7648743987083435
+average episode objects is 77.35112762451172
+
+ Scenario UAV Algo mappo Exp check updates 50/312 episodes, total num timesteps 652800/4000000, FPS 1316.
+
+average episode rewards is 1.012354850769043
+average episode objects is 85.62049865722656
+
+ Scenario UAV Algo mappo Exp check updates 55/312 episodes, total num timesteps 716800/4000000, FPS 1315.
+
+average episode rewards is 1.3421796560287476
+average episode objects is 94.96088409423828
+
+ Scenario UAV Algo mappo Exp check updates 60/312 episodes, total num timesteps 780800/4000000, FPS 1309.
+
+average episode rewards is 1.5722938776016235
+average episode objects is 102.7915267944336
+
+ Scenario UAV Algo mappo Exp check updates 65/312 episodes, total num timesteps 844800/4000000, FPS 1307.
+
+average episode rewards is 1.7000528573989868
+average episode objects is 108.72242736816406
+
+ Scenario UAV Algo mappo Exp check updates 70/312 episodes, total num timesteps 908800/4000000, FPS 1307.
+
+average episode rewards is 1.869882583618164
+average episode objects is 114.3907470703125
+
+ Scenario UAV Algo mappo Exp check updates 75/312 episodes, total num timesteps 972800/4000000, FPS 1306.
+
+average episode rewards is 1.9690971374511719
+average episode objects is 119.21431732177734
+
+ Scenario UAV Algo mappo Exp check updates 80/312 episodes, total num timesteps 1036800/4000000, FPS 1305.
+
+average episode rewards is 2.0071334838867188
+average episode objects is 119.31053924560547
+
+ Scenario UAV Algo mappo Exp check updates 85/312 episodes, total num timesteps 1100800/4000000, FPS 1302.
+
+average episode rewards is 2.086031436920166
+average episode objects is 123.01725006103516
+
+ Scenario UAV Algo mappo Exp check updates 90/312 episodes, total num timesteps 1164800/4000000, FPS 1294.
+
+average episode rewards is 2.2050561904907227
+average episode objects is 126.75515747070312
+
+ Scenario UAV Algo mappo Exp check updates 95/312 episodes, total num timesteps 1228800/4000000, FPS 1294.
+
+average episode rewards is 2.216444730758667
+average episode objects is 128.83001708984375
+
+ Scenario UAV Algo mappo Exp check updates 100/312 episodes, total num timesteps 1292800/4000000, FPS 1295.
+
+average episode rewards is 2.290518283843994
+average episode objects is 131.1579132080078
+
+ Scenario UAV Algo mappo Exp check updates 105/312 episodes, total num timesteps 1356800/4000000, FPS 1293.
+
+average episode rewards is 2.31510329246521
+average episode objects is 130.83203125
+
+ Scenario UAV Algo mappo Exp check updates 110/312 episodes, total num timesteps 1420800/4000000, FPS 1292.
+
+average episode rewards is 2.3355536460876465
+average episode objects is 133.24717712402344
+
+ Scenario UAV Algo mappo Exp check updates 115/312 episodes, total num timesteps 1484800/4000000, FPS 1277.
+
+average episode rewards is 2.3215384483337402
+average episode objects is 133.61412048339844
+
+ Scenario UAV Algo mappo Exp check updates 120/312 episodes, total num timesteps 1548800/4000000, FPS 1274.
+
+average episode rewards is 2.3488104343414307
+average episode objects is 133.81011962890625
+
+ Scenario UAV Algo mappo Exp check updates 125/312 episodes, total num timesteps 1612800/4000000, FPS 1273.
+
+average episode rewards is 2.374122142791748
+average episode objects is 135.22474670410156
+
+ Scenario UAV Algo mappo Exp check updates 130/312 episodes, total num timesteps 1676800/4000000, FPS 1272.
+
+average episode rewards is 2.442099094390869
+average episode objects is 138.10183715820312
+
+ Scenario UAV Algo mappo Exp check updates 135/312 episodes, total num timesteps 1740800/4000000, FPS 1270.
+
+average episode rewards is 2.441976547241211
+average episode objects is 138.4446563720703
+
+ Scenario UAV Algo mappo Exp check updates 140/312 episodes, total num timesteps 1804800/4000000, FPS 1269.
+
+average episode rewards is 2.44539737701416
+average episode objects is 137.8218231201172
+
+ Scenario UAV Algo mappo Exp check updates 145/312 episodes, total num timesteps 1868800/4000000, FPS 1267.
+
+average episode rewards is 2.4752261638641357
+average episode objects is 138.40736389160156
+
+ Scenario UAV Algo mappo Exp check updates 150/312 episodes, total num timesteps 1932800/4000000, FPS 1259.
+
+average episode rewards is 2.4810988903045654
+average episode objects is 140.06503295898438
+
+ Scenario UAV Algo mappo Exp check updates 155/312 episodes, total num timesteps 1996800/4000000, FPS 1259.
+
+average episode rewards is 2.4500315189361572
+average episode objects is 139.02369689941406
+
+ Scenario UAV Algo mappo Exp check updates 160/312 episodes, total num timesteps 2060800/4000000, FPS 1258.
+
+average episode rewards is 2.463895559310913
+average episode objects is 140.33709716796875
+
+ Scenario UAV Algo mappo Exp check updates 165/312 episodes, total num timesteps 2124800/4000000, FPS 1257.
+
+average episode rewards is 2.532777786254883
+average episode objects is 143.24647521972656
+
+ Scenario UAV Algo mappo Exp check updates 170/312 episodes, total num timesteps 2188800/4000000, FPS 1257.
+
+average episode rewards is 2.527099847793579
+average episode objects is 142.0726318359375
+
+ Scenario UAV Algo mappo Exp check updates 175/312 episodes, total num timesteps 2252800/4000000, FPS 1256.
+
+average episode rewards is 2.535489082336426
+average episode objects is 143.2587127685547
+
+ Scenario UAV Algo mappo Exp check updates 180/312 episodes, total num timesteps 2316800/4000000, FPS 1256.
+
+
+--------------------统计信息1 steps:100, run72
+任务总成功率: 0.8842 相对成功率率: 0.9039 单次成功率: 0.9669 任务总失败率: 0.1158 任务接受率: 0.9782 任务接受但是失败率: 0.0916 任务没有被认领失败率:0.0242
+ 平均总时延: 4.6684 平均总能量: 40.7552 平均Object值:52.6130
+任务平均开始接受时间:3.5901 任务平均接受时间:1.4708 任务平均总传输时间:1.3709
+大任务成功率: 0.641 大任务里小任务成功率: 0.865
+成功任务平均传输次数: 0.490 成功小任务平均传输次数: 0.784
+成功任务平均开始接受时间: 3.079 成功任务平均接受时间: 1.447 成功任务平均传输时间: 1.081 成功任务平均等待时间: 5.372 成功任务平均总完成时间: 18.529 总时延: 19.858
+越界位置更新比例: 0.009  碰撞移动比例: 0.011  未移动比例: 0.079 
+未执行比例: 0.801  冷冻期执行比例: 0.000 冷冻期传输比例: 0.000 太远通信比例: 0.002 超出跳数限制比例: 0.000
+通信平均分配功率0.6097749770417142 超时传输比例0.006915213469633193 平均单次传输时间2.459410703547805 平均传输能量0.07395058367920736 平均传输距离5.966325917017438 平均传输时间间隔11.451292844257367
+计算平均分配功率0.6471131343182963 超时执行比例0.18461013478928512 平均计算时间10.71591878519024 平均计算能量0.12843193249838114 平均计算时间间隔7.680088722061082
+完成任务数: 4779
+dist:9: count=447, avg=0.6411932509856002
+dist:3: count=296, avg=0.6103339417677066
+dist:8: count=467, avg=0.6020580101358627
+dist:7: count=478, avg=0.6008895040283071
+dist:4: count=330, avg=0.5877092801629902
+dist:1: count=153, avg=0.6073445433506734
+dist:6: count=416, avg=0.6209052217360822
+dist:2: count=161, avg=0.5883955597368447
+dist:10: count=134, avg=0.6249736079265037
+dist:5: count=444, avg=0.6054292153595107
+
+
+--------------------统计信息2 steps:100, run72
+任务总成功率: 0.9727 相对成功率率: 0.9727 单次成功率: 0.9737 任务总失败率: 0.0273 任务接受率: 1.0000 任务接受但是失败率: 0.0273 任务没有被认领失败率:0.0000
+ 平均总时延: 7.6733 平均总能量: 44.3342 平均Object值:109.1309
+任务平均开始接受时间:2.7444 任务平均接受时间:1.4230 任务平均总传输时间:1.1307
+大任务成功率: 0.871 大任务里小任务成功率: 0.963
+成功任务平均传输次数: 0.549 成功小任务平均传输次数: 0.849
+成功任务平均开始接受时间: 2.671 成功任务平均接受时间: 1.418 成功任务平均传输时间: 0.994 成功任务平均等待时间: 4.630 成功任务平均总完成时间: 16.000 总时延: 16.383
+越界位置更新比例: 0.003  碰撞移动比例: 0.008  未移动比例: 0.012 
+未执行比例: 0.764  冷冻期执行比例: 0.000 冷冻期传输比例: 0.000 太远通信比例: 0.003 超出跳数限制比例: 0.000
+通信平均分配功率0.7002967826618905 超时传输比例0.0008867213478164486 平均单次传输时间1.88516958545777 平均传输能量0.07416526819001464 平均传输距离5.574595433385059 平均传输时间间隔9.268676568388384
+计算平均分配功率0.8152989909610145 超时执行比例0.023561330858203628 平均计算时间6.508353562758818 平均计算能量0.1802145087934852 平均计算时间间隔6.854062544623733
+完成任务数: 6838
+dist:7: count=610, avg=0.6875346347680523
+dist:8: count=524, avg=0.691504620045128
+dist:4: count=486, avg=0.7039775267473362
+dist:1: count=302, avg=0.7022674202141846
+dist:6: count=558, avg=0.7141197358011095
+dist:2: count=276, avg=0.7076082402678261
+dist:10: count=116, avg=0.7184321443325484
+dist:9: count=554, avg=0.7116192868004656
+dist:3: count=516, avg=0.6848036037228057
+dist:5: count=569, avg=0.7001121960105721
+
+
+--------------------统计信息3 steps:100, run72
+任务总成功率: 0.9906 相对成功率率: 0.9907 单次成功率: 0.9938 任务总失败率: 0.0094 任务接受率: 0.9999 任务接受但是失败率: 0.0093 任务没有被认领失败率:0.0001
+ 平均总时延: 9.0574 平均总能量: 44.8324 平均Object值:136.3158
+任务平均开始接受时间:2.6097 任务平均接受时间:1.3862 任务平均总传输时间:1.0244
+大任务成功率: 0.944 大任务里小任务成功率: 0.985
+成功任务平均传输次数: 0.558 成功小任务平均传输次数: 0.864
+成功任务平均开始接受时间: 2.582 成功任务平均接受时间: 1.383 成功任务平均传输时间: 0.970 成功任务平均等待时间: 4.396 成功任务平均总完成时间: 14.744 总时延: 14.887
+越界位置更新比例: 0.003  碰撞移动比例: 0.005  未移动比例: 0.005 
+未执行比例: 0.745  冷冻期执行比例: 0.000 冷冻期传输比例: 0.000 太远通信比例: 0.003 超出跳数限制比例: 0.000
+通信平均分配功率0.7468668202469793 超时传输比例0.0002101723413198823 平均单次传输时间1.7669188734762504 平均传输能量0.07822858442267053 平均传输距离5.684110970996217 平均传输时间间隔8.927070197562001
+计算平均分配功率0.8863337393142724 超时执行比例0.0016845924582091487 平均计算时间5.483348451470778 平均计算能量0.20520441088344135 平均计算时间间隔6.272644810159388
+完成任务数: 7704
+dist:4: count=410, avg=0.7710279059846239
+dist:7: count=684, avg=0.752815890336167
+dist:1: count=351, avg=0.7226931954720727
+dist:9: count=640, avg=0.7393381658557407
+dist:8: count=575, avg=0.7531742736298815
+dist:3: count=570, avg=0.7406503256423487
+dist:5: count=616, avg=0.7526315666638477
+dist:6: count=531, avg=0.7393408170906544
+dist:10: count=146, avg=0.7472915953663097
+dist:2: count=235, avg=0.745283394538339
+
+
+--------------------统计信息4 steps:100, run72
+任务总成功率: 0.9921 相对成功率率: 0.9921 单次成功率: 0.9753 任务总失败率: 0.0079 任务接受率: 1.0000 任务接受但是失败率: 0.0079 任务没有被认领失败率:0.0000
+ 平均总时延: 9.3518 平均总能量: 44.8533 平均Object值:142.1836
+任务平均开始接受时间:2.5442 任务平均接受时间:1.4035 任务平均总传输时间:0.9957
+大任务成功率: 0.952 大任务里小任务成功率: 0.986
+成功任务平均传输次数: 0.553 成功小任务平均传输次数: 0.888
+成功任务平均开始接受时间: 2.508 成功任务平均接受时间: 1.401 成功任务平均传输时间: 0.945 成功任务平均等待时间: 4.339 成功任务平均总完成时间: 14.426 总时延: 14.549
+越界位置更新比例: 0.003  碰撞移动比例: 0.005  未移动比例: 0.004 
+未执行比例: 0.740  冷冻期执行比例: 0.000 冷冻期传输比例: 0.000 太远通信比例: 0.003 超出跳数限制比例: 0.000
+通信平均分配功率0.7396289080731093 超时传输比例0.0004162330905306972 平均单次传输时间1.7496357960457856 平均传输能量0.0766025268595433 平均传输距离5.596878251821019 平均传输时间间隔8.834547346514048
+计算平均分配功率0.9057591415686248 超时执行比例0.0016439049064238746 平均计算时间5.3373798684876075 平均计算能量0.21300800301738695 平均计算时间间隔6.134167931208903
+完成任务数: 7895
+dist:3: count=584, avg=0.7479331053146127
+dist:9: count=620, avg=0.7290039229051521
+dist:4: count=452, avg=0.7348496787359261
+dist:2: count=281, avg=0.7439750908419882
+dist:8: count=521, avg=0.7349987472977454
+dist:5: count=665, avg=0.7500229587993511
+dist:7: count=692, avg=0.743004551053195
+dist:6: count=537, avg=0.7302725924216914
+dist:10: count=131, avg=0.741666515694774
+dist:1: count=322, avg=0.7414876469329938
+
+
+--------------------统计信息5 steps:100, run72
+任务总成功率: 0.9930 相对成功率率: 0.9930 单次成功率: 1.0000 任务总失败率: 0.0070 任务接受率: 1.0000 任务接受但是失败率: 0.0070 任务没有被认领失败率:0.0000
+ 平均总时延: 9.6635 平均总能量: 44.9143 平均Object值:148.3555
+任务平均开始接受时间:2.4081 任务平均接受时间:1.3731 任务平均总传输时间:0.9551
+大任务成功率: 0.964 大任务里小任务成功率: 0.991
+成功任务平均传输次数: 0.555 成功小任务平均传输次数: 0.868
+成功任务平均开始接受时间: 2.383 成功任务平均接受时间: 1.371 成功任务平均传输时间: 0.913 成功任务平均等待时间: 4.288 成功任务平均总完成时间: 14.119 总时延: 14.230
+越界位置更新比例: 0.003  碰撞移动比例: 0.005  未移动比例: 0.004 
+未执行比例: 0.734  冷冻期执行比例: 0.000 冷冻期传输比例: 0.000 太远通信比例: 0.003 超出跳数限制比例: 0.000
+通信平均分配功率0.7620739290430729 超时传输比例0.00020362451639177357 平均单次传输时间1.6662594176338832 平均传输能量0.0779889936664925 平均传输距离5.604561189167176 平均传输时间间隔8.727754021584198
+计算平均分配功率0.9206069165916905 超时执行比例0.0024630541871921183 平均计算时间5.282881773399015 平均计算能量0.21947551939593726 平均计算时间间隔5.974630541871921
+完成任务数: 8100
+dist:2: count=253, avg=0.7674543190084869
+dist:9: count=604, avg=0.7703402411621385
+dist:8: count=588, avg=0.7599603403610958
+dist:5: count=628, avg=0.7619288685740208
+dist:6: count=573, avg=0.7621513793209265
+dist:3: count=608, avg=0.7632814152606704
+dist:1: count=369, avg=0.7596309945991796
+dist:7: count=711, avg=0.7669644407076827
+dist:4: count=440, avg=0.7438439664399886
+dist:10: count=137, avg=0.7594953806547391
+
+
+--------------------统计信息6 steps:100, run72
+任务总成功率: 0.9933 相对成功率率: 0.9935 单次成功率: 0.9745 任务总失败率: 0.0067 任务接受率: 0.9999 任务接受但是失败率: 0.0065 任务没有被认领失败率:0.0001
+ 平均总时延: 9.5919 平均总能量: 44.6892 平均Object值:147.1481
+任务平均开始接受时间:2.5241 任务平均接受时间:1.3978 任务平均总传输时间:0.9283
+大任务成功率: 0.962 大任务里小任务成功率: 0.990
+成功任务平均传输次数: 0.533 成功小任务平均传输次数: 0.857
+成功任务平均开始接受时间: 2.502 成功任务平均接受时间: 1.396 成功任务平均传输时间: 0.885 成功任务平均等待时间: 4.334 成功任务平均总完成时间: 14.157 总时延: 14.263
+越界位置更新比例: 0.002  碰撞移动比例: 0.007  未移动比例: 0.008 
+未执行比例: 0.738  冷冻期执行比例: 0.000 冷冻期传输比例: 0.000 太远通信比例: 0.003 超出跳数限制比例: 0.000
+通信平均分配功率0.7446386691672069 超时传输比例0.0 平均单次传输时间1.6955966815571155 平均传输能量0.07654983745475337 平均传输距离5.551584769198043 平均传输时间间隔9.04318230163795
+计算平均分配功率0.9283379452167314 超时执行比例0.003591776071340104 平均计算时间5.297498142184791 平均计算能量0.22306728009716456 平均计算时间间隔6.001981669556601
+完成任务数: 8045
+dist:7: count=702, avg=0.7534620492895864
+dist:4: count=403, avg=0.7376351735591612
+dist:5: count=584, avg=0.7362657911498234
+dist:9: count=607, avg=0.7421103644840751
+dist:1: count=388, avg=0.7481993903185131
+dist:2: count=283, avg=0.7443285063735107
+dist:6: count=519, avg=0.7462570204113614
+dist:3: count=573, avg=0.7385174739731286
+dist:8: count=509, avg=0.7510438045657475
+dist:10: count=133, avg=0.7534082968796316
+
+average episode rewards is 2.5308897495269775
+average episode objects is 144.0704803466797
+
+ Scenario UAV Algo mappo Exp check updates 185/312 episodes, total num timesteps 2380800/4000000, FPS 1254.
+
+average episode rewards is 2.5860564708709717
+average episode objects is 145.1060333251953
+
+ Scenario UAV Algo mappo Exp check updates 190/312 episodes, total num timesteps 2444800/4000000, FPS 1254.
+
+average episode rewards is 2.5982704162597656
+average episode objects is 144.79974365234375
+
+ Scenario UAV Algo mappo Exp check updates 195/312 episodes, total num timesteps 2508800/4000000, FPS 1243.
+
+average episode rewards is 2.5890567302703857
+average episode objects is 144.933837890625
+
+ Scenario UAV Algo mappo Exp check updates 200/312 episodes, total num timesteps 2572800/4000000, FPS 1242.
+
+average episode rewards is 2.583621025085449
+average episode objects is 144.6676788330078
+
+ Scenario UAV Algo mappo Exp check updates 205/312 episodes, total num timesteps 2636800/4000000, FPS 1242.
+
+average episode rewards is 2.6366796493530273
+average episode objects is 146.2253875732422
+
+ Scenario UAV Algo mappo Exp check updates 210/312 episodes, total num timesteps 2700800/4000000, FPS 1243.
+
+average episode rewards is 2.661844253540039
+average episode objects is 147.65225219726562
+
+ Scenario UAV Algo mappo Exp check updates 215/312 episodes, total num timesteps 2764800/4000000, FPS 1243.
+
+average episode rewards is 2.6259946823120117
+average episode objects is 146.84095764160156
+
+ Scenario UAV Algo mappo Exp check updates 220/312 episodes, total num timesteps 2828800/4000000, FPS 1232.
+
+average episode rewards is 2.663405656814575
+average episode objects is 149.07550048828125
+
+ Scenario UAV Algo mappo Exp check updates 225/312 episodes, total num timesteps 2892800/4000000, FPS 1208.
+
+average episode rewards is 2.669725179672241
+average episode objects is 148.42333984375
+
+ Scenario UAV Algo mappo Exp check updates 230/312 episodes, total num timesteps 2956800/4000000, FPS 1199.
+
+average episode rewards is 2.6147971153259277
+average episode objects is 146.55294799804688
+
+ Scenario UAV Algo mappo Exp check updates 235/312 episodes, total num timesteps 3020800/4000000, FPS 1199.
+
+average episode rewards is 2.654240608215332
+average episode objects is 147.70541381835938
+
+ Scenario UAV Algo mappo Exp check updates 240/312 episodes, total num timesteps 3084800/4000000, FPS 1200.
+
+average episode rewards is 2.6361606121063232
+average episode objects is 147.25149536132812
+
+ Scenario UAV Algo mappo Exp check updates 245/312 episodes, total num timesteps 3148800/4000000, FPS 1200.
+
+average episode rewards is 2.6734588146209717
+average episode objects is 148.83859252929688
+
+ Scenario UAV Algo mappo Exp check updates 250/312 episodes, total num timesteps 3212800/4000000, FPS 1200.
+
+average episode rewards is 2.660905599594116
+average episode objects is 147.29562377929688
+
+ Scenario UAV Algo mappo Exp check updates 255/312 episodes, total num timesteps 3276800/4000000, FPS 1200.
+
+average episode rewards is 2.6556179523468018
+average episode objects is 148.09011840820312
+
+ Scenario UAV Algo mappo Exp check updates 260/312 episodes, total num timesteps 3340800/4000000, FPS 1189.
+
+average episode rewards is 2.6411187648773193
+average episode objects is 147.66302490234375
+
+ Scenario UAV Algo mappo Exp check updates 265/312 episodes, total num timesteps 3404800/4000000, FPS 1174.
+
+average episode rewards is 2.620867967605591
+average episode objects is 147.39418029785156
+
+ Scenario UAV Algo mappo Exp check updates 270/312 episodes, total num timesteps 3468800/4000000, FPS 1172.
+
+average episode rewards is 2.5967917442321777
+average episode objects is 146.71826171875
+
+ Scenario UAV Algo mappo Exp check updates 275/312 episodes, total num timesteps 3532800/4000000, FPS 1172.
+
+average episode rewards is 2.6074585914611816
+average episode objects is 145.86788940429688
+
+ Scenario UAV Algo mappo Exp check updates 280/312 episodes, total num timesteps 3596800/4000000, FPS 1173.
+
+average episode rewards is 2.655137777328491
+average episode objects is 147.72064208984375
+
+ Scenario UAV Algo mappo Exp check updates 285/312 episodes, total num timesteps 3660800/4000000, FPS 1174.
+
+average episode rewards is 2.6022789478302
+average episode objects is 146.31309509277344
+
+ Scenario UAV Algo mappo Exp check updates 290/312 episodes, total num timesteps 3724800/4000000, FPS 1175.
+
+average episode rewards is 2.598888635635376
+average episode objects is 146.271240234375
+
+ Scenario UAV Algo mappo Exp check updates 295/312 episodes, total num timesteps 3788800/4000000, FPS 1176.
+
+average episode rewards is 2.605440378189087
+average episode objects is 146.2091827392578
+
+ Scenario UAV Algo mappo Exp check updates 300/312 episodes, total num timesteps 3852800/4000000, FPS 1176.
+
+average episode rewards is 2.6533854007720947
+average episode objects is 148.62081909179688
+
+ Scenario UAV Algo mappo Exp check updates 305/312 episodes, total num timesteps 3916800/4000000, FPS 1176.
+
+average episode rewards is 2.59236741065979
+average episode objects is 146.02200317382812
+
+ Scenario UAV Algo mappo Exp check updates 310/312 episodes, total num timesteps 3980800/4000000, FPS 1177.
+
+average episode rewards is 2.54353666305542
+average episode objects is 145.27676391601562
